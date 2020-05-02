@@ -16,7 +16,7 @@ tidydata.txt - Document containing tidy data
 
 # Script
 
-# 1. Merges the training and the test sets to create one data set.
+1. Merges the training and the test sets to create one data set.
  
 The data training and test labels (X_train, X_test) training and test set (Y_train, Y_test) were merged using rbind() function,        which combines vector, matrix or data frame by rows and were storaged in the variables X_TestTrain and Y_TestTrain respectivaly.
 As well as the subject train and test were merged and storaged in the Subject_TestTrain variable.
